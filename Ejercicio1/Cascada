@@ -1,0 +1,8 @@
+El modelo de cascada es un tipo del 
+ciclo de vida del Software, el cual 
+indica que se va generando paso a paso 
+iniciando en el análisis, diseño, 
+desarrollo, pruebas y actualizaciones
+Se va realizando sin poder regresar a
+un paso anterior, si no hasta comenzar 
+de nuevo. 
